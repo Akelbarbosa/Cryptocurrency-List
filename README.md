@@ -8,5 +8,7 @@ Consta de tres modulos cada uno
 cada uno con sus respectivos View, Presenter, Router, Interactor. ademas con un administrador de API que es el encargado de realizar las peticiones a la API, en este caso 
 se utilizo la de COINGECKO para consultar el detalle de las monedas.
 
+Para el rendirizado de imagenes usando URL se utilizo la libreria SDImageWeb.
+
 
 
