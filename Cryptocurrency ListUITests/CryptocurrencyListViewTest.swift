@@ -1,13 +1,13 @@
 //
-//  Cryptocurrency_ListUITests.swift
+//  CryptocurrencyListViewTest.swift
 //  Cryptocurrency ListUITests
 //
-//  Created by Akel Barbosa on 26/08/23.
+//  Created by Akel Barbosa on 28/08/23.
 //
 
 import XCTest
 
-final class Cryptocurrency_ListUITests: XCTestCase {
+final class CryptocurrencyListViewTest: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
